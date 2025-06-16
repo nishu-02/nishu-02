@@ -1,1 +1,1 @@
-[![Nishant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nishu-02&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Nishant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nishu-02&theme=vue)]
